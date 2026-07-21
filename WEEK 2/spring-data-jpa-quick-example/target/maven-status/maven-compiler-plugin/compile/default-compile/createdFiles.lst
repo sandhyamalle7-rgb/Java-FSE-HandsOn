@@ -1,3 +1,7 @@
+com\country\controller\CountryController.class
+com\country\entity\Country.class
 com\cognizant\springdatajpa\repository\CountryRepository.class
+com\country\CountryApplication.class
+com\country\repository\CountryRepository.class
 com\cognizant\springdatajpa\entity\Country.class
-com\cognizant\springdatajpa\SpringDataJpaHandsonApplication.class
+com\country\service\CountryService.class
