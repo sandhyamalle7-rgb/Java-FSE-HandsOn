@@ -1,0 +1,8 @@
+### Add India
+POST http://localhost:8080/countries
+Content-Type: application/json
+
+{
+    "code": "IN",
+    "name": "India"
+}
