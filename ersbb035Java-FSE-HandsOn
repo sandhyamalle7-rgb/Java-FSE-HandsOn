@@ -1,0 +1,17 @@
+[33mcommit d75fd9703c1b549c46235b578cbc78b875131d80[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Your Name <your-email@example.com>
+Date:   Thu Jul 23 08:21:10 2026 +0530
+
+    Remove JWT-handson folder
+
+[33mcommit f432cca293c37fc0419000c641b9c7f7a4683fbf[m
+Author: Your Name <your-email@example.com>
+Date:   Thu Jul 23 08:15:53 2026 +0530
+
+    Convert JWT-handson from submodule to regular folder
+
+[33mcommit 645c47e70d4371cfa9dcafe56a2dd3d8ff95f72f[m
+Author: Your Name <your-email@example.com>
+Date:   Thu Jul 23 00:54:48 2026 +0530
+
+    Added Week 3 hands-on implementations
